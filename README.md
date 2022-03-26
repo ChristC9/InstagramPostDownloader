@@ -10,19 +10,19 @@
 ### Getting Started
 
     - Create virtualenv
-        - python3 -m venv {`your_virtualenv_name`} (Recommended)
-        - py -m venv {`your_virtualenv_name`} (it works for me on Windows)
-        - virtualenv {`your_virtualenv_name`} (it works for me on windows)
+        $ python3 -m venv {`your_virtualenv_name`} (Recommended)
+        $ py -m venv {`your_virtualenv_name`} (it works for me on Windows)
+        $ virtualenv {`your_virtualenv_name`} (it works for me on windows)
     - Activate virtualenv
-        - source {`your_virtualenv_name`}/bin/activate (for linux, macOs)
-        - ./{`your_virtualenv_name`}/Scripts/activate (for windows)
+        $ source {`your_virtualenv_name`}/bin/activate (for linux, macOs)
+        $ ./{`your_virtualenv_name`}/Scripts/activate (for windows)
     - Install dependencies
-        - You need to activate virtualenv before running this command
-        - pip install -r requirements.txt
+         You need to activate virtualenv before running this command
+        $ pip install -r requirements.txt
     - Run the script
-        - python3 ig.py (Recommended)
-        - python ig.py (Recommended)
-        - py ig.py (it works for me on Windows)
+        $ python3 ig.py (Recommended)
+        $ python ig.py (Recommended)
+        $ py ig.py (it works for me on Windows)
 
 # Getting The Post Url From Instagram (including shortcode)
 
