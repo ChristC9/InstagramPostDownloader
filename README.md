@@ -24,5 +24,8 @@
         - python ig.py (Recommended)
         - py ig.py (it works for me on Windows)
 
+# Getting The Post Url From Instagram (including shortcode)
 
+    - Go to your Instagram post
+    ![Default Home View](screenshots/instagram.png?raw=true "Title")
 
