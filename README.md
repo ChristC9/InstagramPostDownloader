@@ -32,7 +32,7 @@
     - Select the post that you desired
     - Here I chose the post that I want to download
     - You would see the post url in the address bar and the post shortcode in the url (`p/CbjNrvTPtOY/`) ["p" stands for post, "CbjNrvTPtOY" is the shortcode]
-![Default Home View](screenshots/getting shortcode.png?raw=true "Title")
+![Default Home View](screenshots/gettingshortcode.png?raw=true "Title")
 
     -So, next step you need to copy the account name and add between `.com/{`account_name that you copied`}/p/CbjNrvTPtOY/`.
     -You will get the post url like this `https://www.instagram.com/roses_are_rosie/p/CbjNrvTPtOY/` (for example)
