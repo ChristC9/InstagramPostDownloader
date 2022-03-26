@@ -12,7 +12,7 @@
     - Create virtualenv
         - python3 -m venv {`your_virtualenv_name`} (Recommended)
         - py -m venv {`your_virtualenv_name`} (it works for me on Windows)
-        - virtualenv env (it works for me on windows)
+        - virtualenv {`your_virtualenv_name`} (it works for me on windows)
     - Activate virtualenv
         - source venv/bin/activate (for linux, macOs)
         - ./env/Scripts/activate (for windows)
