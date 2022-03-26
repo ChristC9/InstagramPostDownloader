@@ -27,5 +27,5 @@
 # Getting The Post Url From Instagram (including shortcode)
 
     - Go to your Instagram post
-    ![Default Home View](screenshots/instagram.png?raw=true "Title")
+![Default Home View](screenshots/instagram.png?raw=true "Title")
 
