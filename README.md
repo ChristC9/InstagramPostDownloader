@@ -29,7 +29,7 @@
     - Go to your Instagram post
 ![Default Home View](screenshots/instagram.png?raw=true "Title")
 
-    - Select the post that you desired
+    - Select the post that you're desired
     - Here I chose the post that I want to download
     - You would see the post url in the address bar and the post shortcode in the url (`p/CbjNrvTPtOY/`) ["p" stands for post, "CbjNrvTPtOY" is the shortcode]
 ![Default Home View](screenshots/gettingshortcode.png?raw=true "Title")
